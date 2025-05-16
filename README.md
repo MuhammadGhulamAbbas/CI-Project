@@ -67,7 +67,7 @@ This project implements and compares five evolutionary algorithm-based image seg
 * **Ant Colony Optimization (ACO)**
 * **Genetic Programming (GP)**
 
-Each method will be benchmarked against the **Mean Shift** algorithm and ground truth masks to evaluate segmentation accuracy and robustness.
+Each method will be benchmarked against the **Mean Shift** algorithm and ground truth.
 ### 📋 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
