@@ -23,7 +23,7 @@ Welcome to the **MuhammadGhulamAbbas** project repository. This repository conta
 | ResearchPaper       | Final research paper document detailing methodology and findings (fatty liver).     |
 | Presentation        | PowerPoint slides summarizing algorithms, results, and conclusions.                 |
 | Data                | Original input images and ground truth images used for evaluation.                  |
-| Algorithm\_Analysis | Tabular comparison of algorithm performance from worst to best in terms of metrics. |
+| Algorithm\_Analysis | Tabular comparison of algorithm performance from best to worst in terms of metrics. |
 
 ---
 
