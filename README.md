@@ -19,7 +19,7 @@ Welcome to the **MuhammadGhulamAbbas** project repository. This repository conta
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [SourceCode](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/SourceCode)                                                                                                                  | Contains `.ipynb` files and scripts implementing various algorithms.                |                                                                    |
 | [Results\_Algorithms](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Results/Algorthims)                                                                                                 | Output images showing results of each algorithm on the dataset.                     |                                                                    |
-| [ResearchPaper](https://github.com/MuhammadGhulamAbbas/CI-Project/blob/main/Research%20Paper/Fatty_Liver_Level_Recognition_Using_Particle_Swarm_optimization_PSO_Image_Segmentation_and_Analysis.pdf) |  research paper document detailing methodology and findings (fatty liver).     |                                                                    |
+| [ResearchPaper](https://github.com/MuhammadGhulamAbbas/CI-Project/blob/main/Research%20Paper/Fatty_Liver_Level_Recognition_Using_Particle_Swarm_optimization_PSO_Image_Segmentation_and_Analysis.pdf) | Final research paper document detailing methodology and findings (fatty liver).     |                                                                    |
 | [Presentation](https://github.com/MuhammadGhulamAbbas/CI-Project/blob/main/Presentation/CI%20PROJECT%20PRESENTATION.pptx)                                                                             | PowerPoint slides summarizing algorithms, results, and conclusions.                 |                                                                    |
 | [Data](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Data)                                                                                                                              | Original input images and ground truth images used for evaluation.                  | Original input images and ground truth images used for evaluation. |
 | [Algorithm\_Analysis](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Algorthim%20Analysis)                                                                                               | Tabular comparison of algorithm performance from worst to best in terms of metrics. |                                                                    |
@@ -57,6 +57,17 @@ Welcome to the **MuhammadGhulamAbbas** project repository. This repository conta
 
 ---
 
+### 🔬 Evolutionary Segmentation Approaches
+
+This project implements and compares five evolutionary algorithm-based image segmentation approaches:
+
+* **Genetic Algorithm (GA)**
+* **Differential Evolution (DE)**
+* **Particle Swarm Optimization (PSO)**
+* **Ant Colony Optimization (ACO)**
+* **Genetic Programming (GP)**
+
+Each method will be benchmarked against the **Mean Shift** algorithm and ground truth masks to evaluate segmentation accuracy and robustness.
 ### 📋 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
