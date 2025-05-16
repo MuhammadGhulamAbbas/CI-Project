@@ -15,14 +15,14 @@ Welcome to the **MuhammadGhulamAbbas** project repository. This repository conta
 └── Algorithm_Analysis/    # Tables and comparative analysis of algorithm performance
 ```
 
-| Folder                                                                                                                                                                                                | Description                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [SourceCode](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/SourceCode)                                                                                                                  | Contains `.ipynb` files and scripts implementing various algorithms.                |
-| [Results\_Algorithms](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Results/Algorthims)                                                                                                 | Output images showing results of each algorithm on the dataset.                     |
-| [ResearchPaper](https://github.com/MuhammadGhulamAbbas/CI-Project/blob/main/Research%20Paper/Fatty_Liver_Level_Recognition_Using_Particle_Swarm_optimization_PSO_Image_Segmentation_and_Analysis.pdf) | Final research paper document detailing methodology and findings (fatty liver).     |
-| [Presentation](https://github.com/MuhammadGhulamAbbas/CI-Project/blob/main/Presentation/CI%20PROJECT%20PRESENTATION.pptx)                                                                             | PowerPoint slides summarizing algorithms, results, and conclusions.                 |
-| Data                                                                                                                                                                                                  | Original input images and ground truth images used for evaluation.                  |
-| [Algorithm\_Analysis](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Algorthim%20Analysis)                                                                                               | Tabular comparison of algorithm performance from best to worst in terms of metrics. |
+| Folder                                                                                                                                                                                                | Description                                                                         |                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [SourceCode](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/SourceCode)                                                                                                                  | Contains `.ipynb` files and scripts implementing various algorithms.                |                                                                    |
+| [Results\_Algorithms](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Results/Algorthims)                                                                                                 | Output images showing results of each algorithm on the dataset.                     |                                                                    |
+| [ResearchPaper](https://github.com/MuhammadGhulamAbbas/CI-Project/blob/main/Research%20Paper/Fatty_Liver_Level_Recognition_Using_Particle_Swarm_optimization_PSO_Image_Segmentation_and_Analysis.pdf) |  research paper document detailing methodology and findings (fatty liver).     |                                                                    |
+| [Presentation](https://github.com/MuhammadGhulamAbbas/CI-Project/blob/main/Presentation/CI%20PROJECT%20PRESENTATION.pptx)                                                                             | PowerPoint slides summarizing algorithms, results, and conclusions.                 |                                                                    |
+| [Data](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Data)                                                                                                                              | Original input images and ground truth images used for evaluation.                  | Original input images and ground truth images used for evaluation. |
+| [Algorithm\_Analysis](https://github.com/MuhammadGhulamAbbas/CI-Project/tree/main/Algorthim%20Analysis)                                                                                               | Tabular comparison of algorithm performance from worst to best in terms of metrics. |                                                                    |
 
 ---
 
@@ -72,4 +72,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### 📫 Contact
 
 For questions or feedback, please reach out at `ghulamabbas9861@gmail.com`.
+
 
